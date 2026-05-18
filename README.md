@@ -1,11 +1,10 @@
 # ✨ Hi there, i'm Valerie✨
 <img src="https://github.com/Valseishi/Valseishi/blob/master/gatito.gif" width="400"/>
-Soy estudiante de programación/ingeniería de sistemas/etc...
+Soy estudiante de programación/ingeniería de sistemas/etc, ya graduada como tecnica en desarrollo de software.
 
 ## Tecnologías que estoy aprendiendo
-
+📍 Java
 📍 JavaScript
-📍 Python
 📍 Git
 
 ## Mi linkedin
@@ -13,7 +12,7 @@ Soy estudiante de programación/ingeniería de sistemas/etc...
 <img width="144" height="93" alt="image" src="https://github.com/user-attachments/assets/41a46602-7b91-4533-9ae4-85413b1d5cf1" />
 
 # 💭 About Me:
-Fullstack Developer orientado a Web Development con Python, JavaScript, HTML, Flask, PostgreSQL y CSS. Experiencia en Fullstack Development, Backend y Frontend Development, Web Applications y Responsive Design. Enfoque en Problem Solving, Database Management, Project Leadership y End-to-End Development.<br>
+Fullstack Developer orientado a Web Development con Python, Java, JavaScript, HTML, Flask, PostgreSQL y CSS. Experiencia en Fullstack Development, Backend y Frontend Development, Web Applications y Responsive Design. Enfoque en Problem Solving, Database Management, Project Leadership y End-to-End Development.<br>
 
 
 ## 🌐 Socials:
