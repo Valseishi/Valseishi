@@ -5,6 +5,7 @@ Soy estudiante de programación/ingeniería de sistemas/etc, ya graduada como te
 ## Tecnologías que estoy aprendiendo
 📍 Java
 📍 JavaScript
+📍 Blender
 
 ## Mi linkedin
 📍[Linkedin](https://github.com/Valseishi/Valseishi)<br>
